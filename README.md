@@ -1,1 +1,1 @@
-# Basic-Python-GUI
+# Basic-Python-GUI Development with Tkinter
